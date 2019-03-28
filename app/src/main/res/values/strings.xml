@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment_schoolcom</string>
+
+    <string name="err_msg_nointernet">Please check your internet connection</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
